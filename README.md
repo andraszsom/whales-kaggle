@@ -12,3 +12,5 @@ haar_train_1step/clicks_other/ - clicks on non-whale areas,
 haar_train_1step/cascade_40_30_0.999_normalized_straight/ - the cascade files,
 
 whale_faces/ - the cut out mugshots of (mostly) whale heads.
+
+LICENSE.rtf - license
